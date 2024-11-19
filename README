@@ -1,7 +1,3 @@
 # MarketMaven: AI-Powered Stock Price Prediction App
 - MarketMaven: is a Streamlit-based application designed to revolutionize stock price prediction by experimenting with advanced machine learning and deep learning techniques. Leverage cutting-edge models like Support Vector Machines (SVM), Long Short-Term Memory Networks (LSTM), and Multi-Head Attention to gain insights and make informed predictions about stock prices.
 
-<p align="center">
-    <img width="50%" alt="Streamlit demo app 1" src="./assets/market_marven.webp">
-</p>
-
